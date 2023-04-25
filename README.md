@@ -1,6 +1,6 @@
 # pypong
 >### A Python Pong Game <br><br>
->  I built this Pong game using the turtle library in the hopes of refreshing my Python skills and learning something new. It forced me to think about the dimensions of my screen (AKA it made me do math) and as well as the programmatic logic behind a seemingly simple game. I'd like to build more game-like programs with Python in teh future. <br><br>
+>  I built this Pong game using the turtle library in the hopes of refreshing my Python skills and learning something new. It forced me to think about the dimensions of my screen (AKA it made me do math) and as well as the programmatic logic behind a seemingly simple game. I'd like to build more game-like programs with Python in the future. <br><br>
 
 ![Python][python-url]
 ![VSCode][vscode-url]
